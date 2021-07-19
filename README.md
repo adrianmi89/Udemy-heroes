@@ -10,4 +10,5 @@ Pueden hacer lo que quieran
 #### h4
 ##### h5
 
-Una gran poder conlleva una *gran responsabilidad*
+Un **gran poder** conlleva una *gran responsabilidad*
+> Ben Parker
